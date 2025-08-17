@@ -10,8 +10,7 @@ Modularized faucet for EVM chains with different protection methods (Captcha, Mi
 ps: This is a forked library. If you need to update the library regularly, please go to the original author:https://github.com/pk910/PoWFaucet
 
 Sepolia Testnet ETH is also for sale. 1U buys 7 ETH. If interested, please contact me at 8891689@protonmail.com.
-Why am I selling? Due to the cumbersome verification process in the current market, the amount of testnet tokens I received was very small. I hope anyone interested will contact me. If you only need a small amount, please go directly to the Faucet to claim your tokens: https://sepolia-faucet.pk910.de/
-
+Why am I selling? Due to the current cumbersome market verification process, the number of testnet tokens received is very small. Some websites are not giving out tokens even after registering, which is pure prank and deception. For your convenience, if you are interested, please contact me. If you only need a small amount of tokens, please go directly to Faucet to claim them: https://sepolia-faucet.pk910.de/
 # Why
 
 Faucets for ETH Testnets are spammed by bots. This faucet tries to reduce the efficiency of these automated requests by various protection methods.
